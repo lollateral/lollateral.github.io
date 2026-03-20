@@ -36,7 +36,7 @@ start lollateral.html       # Windows
 ```
 ---
 
-## 📊 Coverage
+## Coverage
 
 | Category | Count |
 |---|---|
@@ -54,7 +54,7 @@ start lollateral.html       # Windows
 
 ---
 
-## 🗂️ Techniques Covered
+## Techniques Covered
 
 ### Remote Services
 `T1021.001` RDP · `T1021.002` SMB/Admin Shares · `T1021.003` DCOM · `T1021.004` SSH · `T1021.005` VNC · `T1021.006` WinRM · `T1021.007` Cloud Services · `T1021.008` Direct Cloud VM
